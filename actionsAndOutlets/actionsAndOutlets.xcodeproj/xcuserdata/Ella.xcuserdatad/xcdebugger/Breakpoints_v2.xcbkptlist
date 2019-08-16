@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "actionsAndOutlets/ViewController.swift"
+            timestampString = "587073992.734049"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.typeTextHere.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.377737"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.typeTextHere.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.382301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.typeTextHere.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.384886"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.typeTextHere.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.387059"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; actionsAndOutlets.ViewController"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.389098"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "303">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;actionsAndOutlets.ViewController&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587071490.391174"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "205">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "actionsAndOutlets/ViewController.swift"
+            timestampString = "587073992.734872"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.textAppearsHere.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.793488"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.textAppearsHere.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.797868"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.textAppearsHere.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.8031631"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "69">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.textAppearsHere.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.807525"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; actionsAndOutlets.ViewController"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.8125401"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "199">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actionsAndOutlets.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;actionsAndOutlets.ViewController&gt;"
+                  moduleName = "actionsAndOutlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ella/Desktop/KWK-NYC/Day%205/actionsAndOutlets/actionsAndOutlets/ViewController.swift"
+                  timestampString = "587073665.819754"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "107">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "actionsAndOutlets/ViewController.swift"
+            timestampString = "587073992.735387"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
